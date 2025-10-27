@@ -1,0 +1,5 @@
+print("My name is : Sachin")
+print("Age is : 23")
+print("D.O.B : 08/12/2001")
+print("Address: Sayalkudi")
+print("phone No: 6381154849")
